@@ -1,0 +1,36 @@
+{
+  "username": "nhali1233",
+  "new_username": "nhali1233/panda",
+  "section_mode": true,
+  "album": [
+    "panda"
+  ],
+  "init_jumlah_photo": 200,
+  "admob_banner_id": "ca-app-pub-5768616473271728/4625537452",
+  "admob_interstitial_id": "ca-app-pub-5768616473271728/6900347005",
+  "admob_native_id": "",
+  "admob_rewarded_interstitial_id": "",
+  "admob_open_app_id": "",
+
+  "admob_hpk_1": "kawaii",
+  "admob_hpk_2": "cute",
+  "admob_hpk_3": "aesthetic",
+  "admob_hpk_4": "luxury car",
+  "admob_hpk_5": "insurance",
+
+  "startapp_app_id": "12345677890",
+
+  "interstitial_inverval": 5,
+
+  "list_ads": [
+    "ADMOB"
+  ],
+
+  "unity_id": "1234567",
+  "unity_banner": "Android_Banner",
+  "unity_interstitial": "Android_Interstitial",
+
+  "applovin_sdk_key": "",
+  "applovin_banner_id":"",
+  "applovin_inter_id":""
+}
